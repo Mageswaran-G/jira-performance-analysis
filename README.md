@@ -1,5 +1,14 @@
 # Jira Performance Analysis | Power BI
+## My Role
 
+I handled the complete analysis end-to-end:
+- Data cleaning and preparation
+- Defining metrics (delay status, resolution time)
+- Building the Power BI dashboard
+- Analyzing patterns and identifying key issues
+- Providing recommendations based on findings
+
+---
 ## Overview
 This project analyzes Jira ticket data to identify why delivery is delayed and where execution breaks down.
 The analysis shows consistent delays driven by poor planning and unclear ownership.
