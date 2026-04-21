@@ -39,7 +39,7 @@ Delivery performance:
 ![Service Dashboard](jira-performance-analysis/dashboard/screenshots/service-dashboard.png)
 
 ### Project View
-![Project Dashboard](dashboard/screenshots/project-dashboard.png)
+![Project Dashboard](jira-performance-analysis/dashboard/screenshots/project-dashboard.png)
 
 ---
 
