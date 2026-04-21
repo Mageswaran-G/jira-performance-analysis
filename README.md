@@ -1,7 +1,11 @@
 # Jira Performance Analysis | Power BI
 
 ## Overview
-This project looks at Jira ticket data to understand delivery issues across teams.
+This project analyzes Jira ticket data to identify why delivery is delayed and where execution breaks down.
+The analysis shows consistent delays driven by poor planning and unclear ownership.
+
+## Key Insight
+High delay rate is mainly driven by missing due dates and unclear ownership across teams.
 
 The goal was simple:
 - Find why tasks are getting delayed
@@ -33,7 +37,11 @@ Delivery performance:
 
 ---
 
-## Dashboard
+## Dashboard Insights
+
+- Service tickets show significantly higher delays compared to project tickets  
+- Some teams have higher resolution time, indicating inefficiency  
+- Workload is concentrated among specific individuals
 
 ### Service View
 ![Service Dashboard](jira-performance-analysis/dashboard/screenshots/service-dashboard.png)
@@ -79,6 +87,14 @@ Delivery performance:
 - Distribute workload more evenly
 - Track delay metrics regularly
 - Improve estimation accuracy based on past data
+
+---
+
+## Business Impact
+
+- Delayed tickets affect delivery timelines and client satisfaction  
+- Lack of ownership reduces accountability and tracking  
+- Poor planning leads to inconsistent execution
 
 ---
 
